@@ -1,0 +1,5 @@
+spring:
+  redis:
+    host: db.adoo.kr
+    port: 6379
+    password: test13579
